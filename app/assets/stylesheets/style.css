@@ -9,10 +9,13 @@
 h1{
     color: #2e5b88;
 }
-#bar{ font-size:28px;
+#bar{
+    font-size:28px;
     height:50px;
     width: 320px;
     border:2px solid green;
     border-radius:15px;
-}
-
+    }
+table tr td{
+    width: 10px;
+;}
